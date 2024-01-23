@@ -1,0 +1,911 @@
+[
+  {
+    "EmployeeCode": 1,
+    "EmployeeName": "Drucy Veelers",
+    "DateOfBirth": "2023-04-06T00:00:00",
+    "Gender": true,
+    "Department": "Accounting",
+    "Designation": "Construction Worker",
+    "BasicSalary": 60234.0
+  },
+  {
+    "EmployeeCode": 2,
+    "EmployeeName": "Felix Jickells",
+    "DateOfBirth": "2023-02-10T00:00:00",
+    "Gender": false,
+    "Department": "Engineering",
+    "Designation": "Construction Worker",
+    "BasicSalary": 61378.0
+  },
+  {
+    "EmployeeCode": 3,
+    "EmployeeName": "Buck Wark",
+    "DateOfBirth": "2023-02-17T00:00:00",
+    "Gender": true,
+    "Department": "Engineering",
+    "Designation": "Construction Manager",
+    "BasicSalary": 89772.0
+  },
+  {
+    "EmployeeCode": 4,
+    "EmployeeName": "Bettye Honnicott",
+    "DateOfBirth": "2023-06-27T00:00:00",
+    "Gender": false,
+    "Department": "Accounting",
+    "Designation": "Construction Worker",
+    "BasicSalary": 82328.0
+  },
+  {
+    "EmployeeCode": 5,
+    "EmployeeName": "Riva Wimbury",
+    "DateOfBirth": "2024-01-01T00:00:00",
+    "Gender": true,
+    "Department": "Services",
+    "Designation": "Construction Manager",
+    "BasicSalary": 59699.0
+  },
+  {
+    "EmployeeCode": 6,
+    "EmployeeName": "Dehlia Mila",
+    "DateOfBirth": "2023-12-29T00:00:00",
+    "Gender": true,
+    "Department": "Research and Development",
+    "Designation": "Construction Manager",
+    "BasicSalary": 74366.0
+  },
+  {
+    "EmployeeCode": 7,
+    "EmployeeName": "Maddy Wilcocks",
+    "DateOfBirth": "2023-12-14T00:00:00",
+    "Gender": false,
+    "Department": "Engineering",
+    "Designation": "Supervisor",
+    "BasicSalary": 55643.0
+  },
+  {
+    "EmployeeCode": 8,
+    "EmployeeName": "Florida Heaton",
+    "DateOfBirth": "2023-10-23T00:00:00",
+    "Gender": false,
+    "Department": "Human Resources",
+    "Designation": "Architect",
+    "BasicSalary": 83831.0
+  },
+  {
+    "EmployeeCode": 9,
+    "EmployeeName": "Jamal Jendrassik",
+    "DateOfBirth": "2023-09-20T00:00:00",
+    "Gender": true,
+    "Department": "Marketing",
+    "Designation": "Construction Expeditor",
+    "BasicSalary": 62391.0
+  },
+  {
+    "EmployeeCode": 10,
+    "EmployeeName": "Nigel Shewan",
+    "DateOfBirth": "2023-12-02T00:00:00",
+    "Gender": true,
+    "Department": "Engineering",
+    "Designation": "Supervisor",
+    "BasicSalary": 89818.0
+  },
+  {
+    "EmployeeCode": 11,
+    "EmployeeName": "Brandy Stonman",
+    "DateOfBirth": "2023-11-25T00:00:00",
+    "Gender": false,
+    "Department": "Accounting",
+    "Designation": "Engineer",
+    "BasicSalary": 68392.0
+  },
+  {
+    "EmployeeCode": 12,
+    "EmployeeName": "Marcus Akred",
+    "DateOfBirth": "2023-02-28T00:00:00",
+    "Gender": true,
+    "Department": "Business Development",
+    "Designation": "Architect",
+    "BasicSalary": 86744.0
+  },
+  {
+    "EmployeeCode": 13,
+    "EmployeeName": "Bamby Pochin",
+    "DateOfBirth": "2023-05-31T00:00:00",
+    "Gender": false,
+    "Department": "Human Resources",
+    "Designation": "Supervisor",
+    "BasicSalary": 76359.0
+  },
+  {
+    "EmployeeCode": 14,
+    "EmployeeName": "Elbertina Mackneis",
+    "DateOfBirth": "2023-06-08T00:00:00",
+    "Gender": false,
+    "Department": "Training",
+    "Designation": "Architect",
+    "BasicSalary": 58207.0
+  },
+  {
+    "EmployeeCode": 15,
+    "EmployeeName": "Binni Meenehan",
+    "DateOfBirth": "2023-03-18T00:00:00",
+    "Gender": false,
+    "Department": "Services",
+    "Designation": "Construction Manager",
+    "BasicSalary": 75599.0
+  },
+  {
+    "EmployeeCode": 16,
+    "EmployeeName": "Francis Dearan",
+    "DateOfBirth": "2023-03-25T00:00:00",
+    "Gender": true,
+    "Department": "Marketing",
+    "Designation": "Construction Worker",
+    "BasicSalary": 74817.0
+  },
+  {
+    "EmployeeCode": 17,
+    "EmployeeName": "Gabi Tupling",
+    "DateOfBirth": "2023-07-17T00:00:00",
+    "Gender": true,
+    "Department": "Training",
+    "Designation": "Construction Foreman",
+    "BasicSalary": 91069.0
+  },
+  {
+    "EmployeeCode": 18,
+    "EmployeeName": "Nevile Lemar",
+    "DateOfBirth": "2023-11-12T00:00:00",
+    "Gender": false,
+    "Department": "Sales",
+    "Designation": "Surveyor",
+    "BasicSalary": 73786.0
+  },
+  {
+    "EmployeeCode": 19,
+    "EmployeeName": "Brooke Marti",
+    "DateOfBirth": "2023-10-23T00:00:00",
+    "Gender": false,
+    "Department": "Training",
+    "Designation": "Electrician",
+    "BasicSalary": 57560.0
+  },
+  {
+    "EmployeeCode": 20,
+    "EmployeeName": "Clarine Rumens",
+    "DateOfBirth": "2023-04-26T00:00:00",
+    "Gender": true,
+    "Department": "Sales",
+    "Designation": "Estimator",
+    "BasicSalary": 61931.0
+  },
+  {
+    "EmployeeCode": 21,
+    "EmployeeName": "Leroi Johnigan",
+    "DateOfBirth": "2023-09-17T00:00:00",
+    "Gender": false,
+    "Department": "Product Management",
+    "Designation": "Subcontractor",
+    "BasicSalary": 71669.0
+  },
+  {
+    "EmployeeCode": 22,
+    "EmployeeName": "Faun Carlos",
+    "DateOfBirth": "2023-10-04T00:00:00",
+    "Gender": false,
+    "Department": "Business Development",
+    "Designation": "Architect",
+    "BasicSalary": 79797.0
+  },
+  {
+    "EmployeeCode": 23,
+    "EmployeeName": "Hughie McHaffy",
+    "DateOfBirth": "2023-05-14T00:00:00",
+    "Gender": false,
+    "Department": "Marketing",
+    "Designation": "Project Manager",
+    "BasicSalary": 60760.0
+  },
+  {
+    "EmployeeCode": 24,
+    "EmployeeName": "Katlin Kenningley",
+    "DateOfBirth": "2024-01-15T00:00:00",
+    "Gender": true,
+    "Department": "Product Management",
+    "Designation": "Architect",
+    "BasicSalary": 64761.0
+  },
+  {
+    "EmployeeCode": 25,
+    "EmployeeName": "Marena Snaden",
+    "DateOfBirth": "2023-02-27T00:00:00",
+    "Gender": false,
+    "Department": "Training",
+    "Designation": "Surveyor",
+    "BasicSalary": 84292.0
+  },
+  {
+    "EmployeeCode": 26,
+    "EmployeeName": "Aubree MacDunleavy",
+    "DateOfBirth": "2023-12-15T00:00:00",
+    "Gender": true,
+    "Department": "Human Resources",
+    "Designation": "Construction Foreman",
+    "BasicSalary": 95984.0
+  },
+  {
+    "EmployeeCode": 27,
+    "EmployeeName": "Toma Bunnell",
+    "DateOfBirth": "2023-03-24T00:00:00",
+    "Gender": false,
+    "Department": "Human Resources",
+    "Designation": "Architect",
+    "BasicSalary": 67881.0
+  },
+  {
+    "EmployeeCode": 28,
+    "EmployeeName": "Tanner Brouncker",
+    "DateOfBirth": "2023-12-20T00:00:00",
+    "Gender": false,
+    "Department": "Accounting",
+    "Designation": "Construction Worker",
+    "BasicSalary": 91882.0
+  },
+  {
+    "EmployeeCode": 29,
+    "EmployeeName": "Mitchell Babbs",
+    "DateOfBirth": "2023-06-24T00:00:00",
+    "Gender": true,
+    "Department": "Support",
+    "Designation": "Subcontractor",
+    "BasicSalary": 67763.0
+  },
+  {
+    "EmployeeCode": 30,
+    "EmployeeName": "Emmott Willmore",
+    "DateOfBirth": "2024-01-01T00:00:00",
+    "Gender": true,
+    "Department": "Human Resources",
+    "Designation": "Surveyor",
+    "BasicSalary": 72027.0
+  },
+  {
+    "EmployeeCode": 31,
+    "EmployeeName": "Sergei Pash",
+    "DateOfBirth": "2023-06-05T00:00:00",
+    "Gender": true,
+    "Department": "Engineering",
+    "Designation": "Construction Manager",
+    "BasicSalary": 98852.0
+  },
+  {
+    "EmployeeCode": 32,
+    "EmployeeName": "Elden Gowdridge",
+    "DateOfBirth": "2024-01-17T00:00:00",
+    "Gender": true,
+    "Department": "Research and Development",
+    "Designation": "Project Manager",
+    "BasicSalary": 83528.0
+  },
+  {
+    "EmployeeCode": 33,
+    "EmployeeName": "Christen Craddock",
+    "DateOfBirth": "2024-01-05T00:00:00",
+    "Gender": true,
+    "Department": "Sales",
+    "Designation": "Estimator",
+    "BasicSalary": 56287.0
+  },
+  {
+    "EmployeeCode": 34,
+    "EmployeeName": "Aharon Icom",
+    "DateOfBirth": "2023-04-16T00:00:00",
+    "Gender": true,
+    "Department": "Human Resources",
+    "Designation": "Construction Manager",
+    "BasicSalary": 94179.0
+  },
+  {
+    "EmployeeCode": 35,
+    "EmployeeName": "Bettina Cumbes",
+    "DateOfBirth": "2023-12-03T00:00:00",
+    "Gender": false,
+    "Department": "Research and Development",
+    "Designation": "Construction Worker",
+    "BasicSalary": 60092.0
+  },
+  {
+    "EmployeeCode": 36,
+    "EmployeeName": "Mildrid Parncutt",
+    "DateOfBirth": "2023-05-18T00:00:00",
+    "Gender": true,
+    "Department": "Sales",
+    "Designation": "Construction Worker",
+    "BasicSalary": 81790.0
+  },
+  {
+    "EmployeeCode": 37,
+    "EmployeeName": "Curry Bigland",
+    "DateOfBirth": "2023-03-22T00:00:00",
+    "Gender": false,
+    "Department": "Sales",
+    "Designation": "Architect",
+    "BasicSalary": 88387.0
+  },
+  {
+    "EmployeeCode": 38,
+    "EmployeeName": "Trescha Scouller",
+    "DateOfBirth": "2023-09-13T00:00:00",
+    "Gender": false,
+    "Department": "Legal",
+    "Designation": "Supervisor",
+    "BasicSalary": 67762.0
+  },
+  {
+    "EmployeeCode": 39,
+    "EmployeeName": "Shirlene Falk",
+    "DateOfBirth": "2023-02-04T00:00:00",
+    "Gender": true,
+    "Department": "Training",
+    "Designation": "Construction Foreman",
+    "BasicSalary": 76568.0
+  },
+  {
+    "EmployeeCode": 40,
+    "EmployeeName": "Bradford Maffioletti",
+    "DateOfBirth": "2024-01-04T00:00:00",
+    "Gender": false,
+    "Department": "Services",
+    "Designation": "Supervisor",
+    "BasicSalary": 86610.0
+  },
+  {
+    "EmployeeCode": 41,
+    "EmployeeName": "Joellyn Lundie",
+    "DateOfBirth": "2023-02-04T00:00:00",
+    "Gender": false,
+    "Department": "Accounting",
+    "Designation": "Architect",
+    "BasicSalary": 78875.0
+  },
+  {
+    "EmployeeCode": 42,
+    "EmployeeName": "Ardyth Dooman",
+    "DateOfBirth": "2023-07-05T00:00:00",
+    "Gender": true,
+    "Department": "Product Management",
+    "Designation": "Subcontractor",
+    "BasicSalary": 64490.0
+  },
+  {
+    "EmployeeCode": 43,
+    "EmployeeName": "Tabby Spicer",
+    "DateOfBirth": "2023-10-01T00:00:00",
+    "Gender": false,
+    "Department": "Marketing",
+    "Designation": "Subcontractor",
+    "BasicSalary": 75019.0
+  },
+  {
+    "EmployeeCode": 44,
+    "EmployeeName": "Brigg Pinkett",
+    "DateOfBirth": "2023-06-10T00:00:00",
+    "Gender": false,
+    "Department": "Research and Development",
+    "Designation": "Engineer",
+    "BasicSalary": 71582.0
+  },
+  {
+    "EmployeeCode": 45,
+    "EmployeeName": "Andrea Sprankling",
+    "DateOfBirth": "2023-04-18T00:00:00",
+    "Gender": false,
+    "Department": "Sales",
+    "Designation": "Electrician",
+    "BasicSalary": 68033.0
+  },
+  {
+    "EmployeeCode": 46,
+    "EmployeeName": "Melita Baldin",
+    "DateOfBirth": "2023-06-08T00:00:00",
+    "Gender": true,
+    "Department": "Research and Development",
+    "Designation": "Surveyor",
+    "BasicSalary": 72585.0
+  },
+  {
+    "EmployeeCode": 47,
+    "EmployeeName": "Minerva Larner",
+    "DateOfBirth": "2023-11-10T00:00:00",
+    "Gender": false,
+    "Department": "Marketing",
+    "Designation": "Estimator",
+    "BasicSalary": 78233.0
+  },
+  {
+    "EmployeeCode": 48,
+    "EmployeeName": "Glynnis Arundel",
+    "DateOfBirth": "2023-07-06T00:00:00",
+    "Gender": false,
+    "Department": "Product Management",
+    "Designation": "Supervisor",
+    "BasicSalary": 94296.0
+  },
+  {
+    "EmployeeCode": 49,
+    "EmployeeName": "Griffin Fidele",
+    "DateOfBirth": "2024-01-15T00:00:00",
+    "Gender": false,
+    "Department": "Accounting",
+    "Designation": "Construction Expeditor",
+    "BasicSalary": 69816.0
+  },
+  {
+    "EmployeeCode": 50,
+    "EmployeeName": "Gwenora Pitcock",
+    "DateOfBirth": "2023-09-24T00:00:00",
+    "Gender": true,
+    "Department": "Marketing",
+    "Designation": "Subcontractor",
+    "BasicSalary": 76763.0
+  },
+  {
+    "EmployeeCode": 51,
+    "EmployeeName": "Brewster Crucetti",
+    "DateOfBirth": "2023-08-10T00:00:00",
+    "Gender": true,
+    "Department": "Engineering",
+    "Designation": "Construction Foreman",
+    "BasicSalary": 99407.0
+  },
+  {
+    "EmployeeCode": 52,
+    "EmployeeName": "Demott Habbon",
+    "DateOfBirth": "2023-08-01T00:00:00",
+    "Gender": false,
+    "Department": "Training",
+    "Designation": "Construction Manager",
+    "BasicSalary": 84858.0
+  },
+  {
+    "EmployeeCode": 53,
+    "EmployeeName": "Cissiee Tebbut",
+    "DateOfBirth": "2023-12-09T00:00:00",
+    "Gender": false,
+    "Department": "Services",
+    "Designation": "Subcontractor",
+    "BasicSalary": 63105.0
+  },
+  {
+    "EmployeeCode": 54,
+    "EmployeeName": "Dian Brothers",
+    "DateOfBirth": "2024-01-13T00:00:00",
+    "Gender": false,
+    "Department": "Legal",
+    "Designation": "Construction Worker",
+    "BasicSalary": 58397.0
+  },
+  {
+    "EmployeeCode": 55,
+    "EmployeeName": "Cesar Ambrodi",
+    "DateOfBirth": "2023-05-15T00:00:00",
+    "Gender": true,
+    "Department": "Services",
+    "Designation": "Construction Expeditor",
+    "BasicSalary": 61092.0
+  },
+  {
+    "EmployeeCode": 56,
+    "EmployeeName": "Brittney Mithon",
+    "DateOfBirth": "2023-10-03T00:00:00",
+    "Gender": true,
+    "Department": "Legal",
+    "Designation": "Project Manager",
+    "BasicSalary": 88119.0
+  },
+  {
+    "EmployeeCode": 57,
+    "EmployeeName": "Salmon Kelleway",
+    "DateOfBirth": "2023-11-10T00:00:00",
+    "Gender": true,
+    "Department": "Business Development",
+    "Designation": "Engineer",
+    "BasicSalary": 58172.0
+  },
+  {
+    "EmployeeCode": 58,
+    "EmployeeName": "Cornelia Leimster",
+    "DateOfBirth": "2023-09-03T00:00:00",
+    "Gender": false,
+    "Department": "Research and Development",
+    "Designation": "Construction Worker",
+    "BasicSalary": 90526.0
+  },
+  {
+    "EmployeeCode": 59,
+    "EmployeeName": "Shandie Draco",
+    "DateOfBirth": "2023-09-22T00:00:00",
+    "Gender": false,
+    "Department": "Accounting",
+    "Designation": "Construction Expeditor",
+    "BasicSalary": 61112.0
+  },
+  {
+    "EmployeeCode": 60,
+    "EmployeeName": "Glynis Blant",
+    "DateOfBirth": "2023-05-04T00:00:00",
+    "Gender": false,
+    "Department": "Business Development",
+    "Designation": "Subcontractor",
+    "BasicSalary": 85358.0
+  },
+  {
+    "EmployeeCode": 61,
+    "EmployeeName": "Dayle Taggart",
+    "DateOfBirth": "2023-04-29T00:00:00",
+    "Gender": true,
+    "Department": "Sales",
+    "Designation": "Supervisor",
+    "BasicSalary": 87024.0
+  },
+  {
+    "EmployeeCode": 62,
+    "EmployeeName": "Kellsie Llewelyn",
+    "DateOfBirth": "2023-12-11T00:00:00",
+    "Gender": true,
+    "Department": "Engineering",
+    "Designation": "Construction Worker",
+    "BasicSalary": 66749.0
+  },
+  {
+    "EmployeeCode": 63,
+    "EmployeeName": "Alie Woolsey",
+    "DateOfBirth": "2023-05-14T00:00:00",
+    "Gender": false,
+    "Department": "Sales",
+    "Designation": "Electrician",
+    "BasicSalary": 62134.0
+  },
+  {
+    "EmployeeCode": 64,
+    "EmployeeName": "Talbert Cliff",
+    "DateOfBirth": "2023-03-26T00:00:00",
+    "Gender": false,
+    "Department": "Support",
+    "Designation": "Subcontractor",
+    "BasicSalary": 56339.0
+  },
+  {
+    "EmployeeCode": 65,
+    "EmployeeName": "Daryn Van der Spohr",
+    "DateOfBirth": "2023-05-04T00:00:00",
+    "Gender": true,
+    "Department": "Product Management",
+    "Designation": "Supervisor",
+    "BasicSalary": 96102.0
+  },
+  {
+    "EmployeeCode": 66,
+    "EmployeeName": "Dewitt Mawby",
+    "DateOfBirth": "2023-07-08T00:00:00",
+    "Gender": true,
+    "Department": "Business Development",
+    "Designation": "Construction Worker",
+    "BasicSalary": 99623.0
+  },
+  {
+    "EmployeeCode": 67,
+    "EmployeeName": "Eimile Gilligan",
+    "DateOfBirth": "2023-04-15T00:00:00",
+    "Gender": false,
+    "Department": "Sales",
+    "Designation": "Engineer",
+    "BasicSalary": 55306.0
+  },
+  {
+    "EmployeeCode": 68,
+    "EmployeeName": "Fairfax Mulmuray",
+    "DateOfBirth": "2023-03-03T00:00:00",
+    "Gender": false,
+    "Department": "Sales",
+    "Designation": "Surveyor",
+    "BasicSalary": 94426.0
+  },
+  {
+    "EmployeeCode": 69,
+    "EmployeeName": "Sarette Collihole",
+    "DateOfBirth": "2023-05-29T00:00:00",
+    "Gender": false,
+    "Department": "Training",
+    "Designation": "Subcontractor",
+    "BasicSalary": 88053.0
+  },
+  {
+    "EmployeeCode": 70,
+    "EmployeeName": "Dennison Bourdon",
+    "DateOfBirth": "2023-10-20T00:00:00",
+    "Gender": false,
+    "Department": "Marketing",
+    "Designation": "Project Manager",
+    "BasicSalary": 97615.0
+  },
+  {
+    "EmployeeCode": 71,
+    "EmployeeName": "Kingsly McCamish",
+    "DateOfBirth": "2023-02-27T00:00:00",
+    "Gender": false,
+    "Department": "Research and Development",
+    "Designation": "Estimator",
+    "BasicSalary": 68100.0
+  },
+  {
+    "EmployeeCode": 72,
+    "EmployeeName": "Alberto Holdron",
+    "DateOfBirth": "2023-04-21T00:00:00",
+    "Gender": true,
+    "Department": "Training",
+    "Designation": "Engineer",
+    "BasicSalary": 83221.0
+  },
+  {
+    "EmployeeCode": 73,
+    "EmployeeName": "Glynnis Harling",
+    "DateOfBirth": "2023-02-17T00:00:00",
+    "Gender": false,
+    "Department": "Support",
+    "Designation": "Supervisor",
+    "BasicSalary": 68500.0
+  },
+  {
+    "EmployeeCode": 74,
+    "EmployeeName": "Bellina Burr",
+    "DateOfBirth": "2023-06-11T00:00:00",
+    "Gender": false,
+    "Department": "Human Resources",
+    "Designation": "Architect",
+    "BasicSalary": 84846.0
+  },
+  {
+    "EmployeeCode": 75,
+    "EmployeeName": "Lilyan Jankovsky",
+    "DateOfBirth": "2023-12-01T00:00:00",
+    "Gender": false,
+    "Department": "Business Development",
+    "Designation": "Electrician",
+    "BasicSalary": 67294.0
+  },
+  {
+    "EmployeeCode": 76,
+    "EmployeeName": "Martyn Ramelot",
+    "DateOfBirth": "2023-02-26T00:00:00",
+    "Gender": false,
+    "Department": "Marketing",
+    "Designation": "Construction Manager",
+    "BasicSalary": 64411.0
+  },
+  {
+    "EmployeeCode": 77,
+    "EmployeeName": "Merle Coultous",
+    "DateOfBirth": "2023-10-21T00:00:00",
+    "Gender": false,
+    "Department": "Marketing",
+    "Designation": "Architect",
+    "BasicSalary": 63192.0
+  },
+  {
+    "EmployeeCode": 78,
+    "EmployeeName": "Derek Fantone",
+    "DateOfBirth": "2023-05-26T00:00:00",
+    "Gender": false,
+    "Department": "Sales",
+    "Designation": "Architect",
+    "BasicSalary": 75573.0
+  },
+  {
+    "EmployeeCode": 79,
+    "EmployeeName": "Shawn Rawet",
+    "DateOfBirth": "2023-01-25T00:00:00",
+    "Gender": true,
+    "Department": "Research and Development",
+    "Designation": "Engineer",
+    "BasicSalary": 83585.0
+  },
+  {
+    "EmployeeCode": 80,
+    "EmployeeName": "Ariella Ferriere",
+    "DateOfBirth": "2023-09-04T00:00:00",
+    "Gender": false,
+    "Department": "Business Development",
+    "Designation": "Construction Manager",
+    "BasicSalary": 74809.0
+  },
+  {
+    "EmployeeCode": 81,
+    "EmployeeName": "Siobhan Keenan",
+    "DateOfBirth": "2023-06-07T00:00:00",
+    "Gender": true,
+    "Department": "Engineering",
+    "Designation": "Surveyor",
+    "BasicSalary": 65391.0
+  },
+  {
+    "EmployeeCode": 82,
+    "EmployeeName": "Findley Minchinton",
+    "DateOfBirth": "2024-01-06T00:00:00",
+    "Gender": true,
+    "Department": "Business Development",
+    "Designation": "Construction Worker",
+    "BasicSalary": 63235.0
+  },
+  {
+    "EmployeeCode": 83,
+    "EmployeeName": "Rebecka McGerr",
+    "DateOfBirth": "2023-09-01T00:00:00",
+    "Gender": true,
+    "Department": "Business Development",
+    "Designation": "Construction Expeditor",
+    "BasicSalary": 61025.0
+  },
+  {
+    "EmployeeCode": 84,
+    "EmployeeName": "Orlando Gubbin",
+    "DateOfBirth": "2024-01-14T00:00:00",
+    "Gender": false,
+    "Department": "Marketing",
+    "Designation": "Construction Worker",
+    "BasicSalary": 98906.0
+  },
+  {
+    "EmployeeCode": 85,
+    "EmployeeName": "Maia Micco",
+    "DateOfBirth": "2023-05-02T00:00:00",
+    "Gender": false,
+    "Department": "Legal",
+    "Designation": "Architect",
+    "BasicSalary": 93702.0
+  },
+  {
+    "EmployeeCode": 86,
+    "EmployeeName": "Kylynn Cotterell",
+    "DateOfBirth": "2023-05-10T00:00:00",
+    "Gender": true,
+    "Department": "Engineering",
+    "Designation": "Engineer",
+    "BasicSalary": 76608.0
+  },
+  {
+    "EmployeeCode": 87,
+    "EmployeeName": "Tore Chantree",
+    "DateOfBirth": "2023-12-13T00:00:00",
+    "Gender": true,
+    "Department": "Services",
+    "Designation": "Supervisor",
+    "BasicSalary": 83360.0
+  },
+  {
+    "EmployeeCode": 88,
+    "EmployeeName": "Gareth Crickmer",
+    "DateOfBirth": "2023-08-17T00:00:00",
+    "Gender": true,
+    "Department": "Services",
+    "Designation": "Construction Manager",
+    "BasicSalary": 90337.0
+  },
+  {
+    "EmployeeCode": 89,
+    "EmployeeName": "Cicily Jurczik",
+    "DateOfBirth": "2023-03-29T00:00:00",
+    "Gender": false,
+    "Department": "Research and Development",
+    "Designation": "Construction Expeditor",
+    "BasicSalary": 95659.0
+  },
+  {
+    "EmployeeCode": 90,
+    "EmployeeName": "Gino Keohane",
+    "DateOfBirth": "2023-06-17T00:00:00",
+    "Gender": false,
+    "Department": "Research and Development",
+    "Designation": "Surveyor",
+    "BasicSalary": 60729.0
+  },
+  {
+    "EmployeeCode": 91,
+    "EmployeeName": "Abe Hughson",
+    "DateOfBirth": "2023-08-10T00:00:00",
+    "Gender": true,
+    "Department": "Sales",
+    "Designation": "Subcontractor",
+    "BasicSalary": 70022.0
+  },
+  {
+    "EmployeeCode": 92,
+    "EmployeeName": "Cortie Kleinsmuntz",
+    "DateOfBirth": "2023-07-04T00:00:00",
+    "Gender": true,
+    "Department": "Business Development",
+    "Designation": "Project Manager",
+    "BasicSalary": 80788.0
+  },
+  {
+    "EmployeeCode": 93,
+    "EmployeeName": "Tasha Skipping",
+    "DateOfBirth": "2024-01-12T00:00:00",
+    "Gender": true,
+    "Department": "Business Development",
+    "Designation": "Surveyor",
+    "BasicSalary": 86525.0
+  },
+  {
+    "EmployeeCode": 94,
+    "EmployeeName": "Kial McNaught",
+    "DateOfBirth": "2023-09-19T00:00:00",
+    "Gender": true,
+    "Department": "Engineering",
+    "Designation": "Construction Foreman",
+    "BasicSalary": 93455.0
+  },
+  {
+    "EmployeeCode": 95,
+    "EmployeeName": "Gasparo Thomasen",
+    "DateOfBirth": "2023-07-01T00:00:00",
+    "Gender": false,
+    "Department": "Engineering",
+    "Designation": "Supervisor",
+    "BasicSalary": 68923.0
+  },
+  {
+    "EmployeeCode": 96,
+    "EmployeeName": "Galvan Drever",
+    "DateOfBirth": "2023-09-04T00:00:00",
+    "Gender": false,
+    "Department": "Legal",
+    "Designation": "Subcontractor",
+    "BasicSalary": 89508.0
+  },
+  {
+    "EmployeeCode": 97,
+    "EmployeeName": "Thatch Ronaghan",
+    "DateOfBirth": "2023-01-23T00:00:00",
+    "Gender": true,
+    "Department": "Human Resources",
+    "Designation": "Surveyor",
+    "BasicSalary": 96234.0
+  },
+  {
+    "EmployeeCode": 98,
+    "EmployeeName": "Joanne Simenet",
+    "DateOfBirth": "2023-02-28T00:00:00",
+    "Gender": false,
+    "Department": "Legal",
+    "Designation": "Subcontractor",
+    "BasicSalary": 82165.0
+  },
+  {
+    "EmployeeCode": 99,
+    "EmployeeName": "Bartlet Selly",
+    "DateOfBirth": "2023-04-23T00:00:00",
+    "Gender": false,
+    "Department": "Accounting",
+    "Designation": "Supervisor",
+    "BasicSalary": 67393.0
+  },
+  {
+    "EmployeeCode": 100,
+    "EmployeeName": "Jobye Brereton",
+    "DateOfBirth": "2024-01-21T00:00:00",
+    "Gender": false,
+    "Department": "Engineering",
+    "Designation": "Surveyor",
+    "BasicSalary": 97218.0
+  },
+  {
+    "EmployeeCode": 101,
+    "EmployeeName": "Jobye Brereton",
+    "DateOfBirth": "2024-02-02T00:00:00",
+    "Gender": false,
+    "Department": "Engineering",
+    "Designation": "Surveyor",
+    "BasicSalary": 110218.0
+  }
+]
